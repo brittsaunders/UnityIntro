@@ -5,5 +5,5 @@ Includes final build and scripts
 
 ------------------------------------
 # Game Instructions
-Left Ship uses WASD to move, F1 for short range ammo, F2 for long range ammo ---- 
-Right Ship uses arrow keys to move, less-than sign for short range ammo, greater-than sign for long range ammo
+Left Ship uses WASD to move, F1 for short range shots, F2 for long range shots ---- 
+Right Ship uses arrow keys to move, less-than sign for short range shots, greater-than sign for long range shots ---- RULES: Too many hits will cause the loser to explode so dodge the bullets!!
